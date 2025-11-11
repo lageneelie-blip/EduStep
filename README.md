@@ -23,6 +23,3 @@ EduStep se yon aplikasyon edikatif entèaktif ki fèt pou timoun ki gen difikilt
 - Sistèm sosyal senp pou pataje reyalizasyon ak zanmi.
 - Rekòmandasyon leson selon pèfòmans timoun nan.
 - Mod offline pou itilize san koneksyon entènèt.
-Rekòmandasyon leson selon pèfòmans timoun nan.
-
-Mod offline pou itilize san koneksyon entènèt.
