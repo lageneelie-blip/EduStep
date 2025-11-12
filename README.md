@@ -2,6 +2,10 @@
 
 ## Description:
 EduStep se yon aplikasyon edikatif entèaktif ki fèt pou timoun ki gen difikilte pou aprann, tankou pwoblèm konsantrasyon oswa disleksi. Li sèvi ak videyo kout, ti quiz entèaktif, ak yon sistèm aprantisaj adaptatif ki pèmèt chak timoun aprann nan pwòp vitès på yo. Aplikasyon an mete aksan sou motivasyon pozitif ak feedback imedya, atravè zetwal, nivo ak mesaj ankourajan, pou fè aprantisaj vin yon eksperyans amizan, fasil, ak efikas.
+<br><br>
+<img src="https://github.com/lageneelie-blip/EduStep/blob/main/EduStep.gif" width=200> 
+
+<br>
 ###  Must Have
 - Videyo kout edikatif pou chak leson.
 - Quiz entèaktif apre chak videyo pou teste konpreyansyon.
